@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaxco da Gama</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body background="https://www.otempo.com.br/image/contentid/policy:1.2720831:1661260357/torcida-do-Vasco-jpg.jpg">
+    <nav>
+        <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">titulos</a>
+        </ul>
+    </nav>
+    <h1>
+        Vasco Da Gama
+    </h1>
+    <img src="https://static.dicionariodesimbolos.com.br/upload/60/81/conheca-o-significado-do-escudo-do-vasco-da-gama-5_xl.png"
+        alt="">
+
+</body>
+
+</html>
